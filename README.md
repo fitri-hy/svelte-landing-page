@@ -16,6 +16,7 @@ npm install
 ```
 ```sh
 npm run dev
+```
 
 ## Building Project
 ```sh
